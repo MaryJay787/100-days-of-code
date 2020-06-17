@@ -9,7 +9,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
-### Day 1: June 15, Monday
+### Day 1: June 15, Monday, 2020
 
 **Today's Progress**: Successfully installed JEST to start testing my code 
 
@@ -17,3 +17,15 @@
 
 **Link(s) to work**
 1. [Trivia App](https://github.com/MaryJay787/trivia_frontend)
+
+### Day 2: June 16, Tuesday, 2020 
+
+**Today's Progress**: Watched some videos about testing with Jest. Also read some documentation on the Jest website. I started adjusting my code so I can start testing but something is still giving me errors. 
+
+**Thoughts:** I'm not sure how setting this up is going to work. I hope I won't have to scrap my whole project and start over. 
+
+**Link to work:** [Trivia App](https://github.com/MaryJay787/trivia_frontend)
+1. [Introduction To Testing With Jest - React Testing For Beginners](https://www.youtube.com/watch?v=D9DdY2WmM-s)
+2. [Jest Explained - React Testing For Beginners](https://www.youtube.com/watch?v=b3VJVwQzw_Q)
+3. [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo)
+4. [JEST Docs](https://jestjs.io/docs/en/getting-started.html)
