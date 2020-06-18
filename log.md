@@ -42,4 +42,11 @@
 3. [React Docs](https://reactjs.org/docs/create-a-new-react-app.html)
 4. [JEST Docs](https://jestjs.io/docs/en/getting-started.html)
 
+### Day 4: June 18, Thursday, 2020 
 
+**Today's Progress**: Following a react, jest, enzyme tutorial to learn how to use them all together to test my code. But also adjusting some of the code shown in the video to match the project I'm trying to build. Specifically I wanted to use Semantic UI React for styling but it doesn't play well with jest and enzyme. I had to learn that through trial and error. So as an end result I have to brush up on my HTML and CSS.   
+
+**Thoughts:** Happy that I'm slowly starting to get the hang of TDD but, still alot to learn so..yeah. 
+
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo)

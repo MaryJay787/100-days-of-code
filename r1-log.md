@@ -12,3 +12,6 @@ Watched some videos on youtube about JEST and React. Also read some documentatio
 
 ### R1D3 
 I ended up having to start from scratch...not too happy about that. However I did successfully install, configures and run some practice test so I guess I'm off to a great start. 
+
+### R1D4
+Following a react, jest, enzyme tutorial video but, also adjusting some of the code to fit my project. Which sorta turned out to be a fail because I wanted to use Semantic UI React for styling but it doesn't play well with jest and enzyme. I learned today that I have to brush up on my HTMl and CSS. Lots more to learn but making progress. 
