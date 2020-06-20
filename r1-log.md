@@ -15,3 +15,6 @@ I ended up having to start from scratch...not too happy about that. However I di
 
 ### R1D4
 Following a react, jest, enzyme tutorial video but, also adjusting some of the code to fit my project. Which sorta turned out to be a fail because I wanted to use Semantic UI React for styling but it doesn't play well with jest and enzyme. I learned today that I have to brush up on my HTMl and CSS. Lots more to learn but making progress. 
+
+### R1D5
+Forgot to post this yesterday. But I am in the process of learning more about jest and enzyme. I also am trying to figure out what other programs I want to implement into my app. 

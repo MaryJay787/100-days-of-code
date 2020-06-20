@@ -50,3 +50,14 @@
 
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo)
+
+### Day 5: June 19, Friday, 2020 
+
+**Today's Progress**: Forgot to post this yesterday. But I am in the process of learning more about jest and enyzme and how they work. I also am trying to figure out what other programs I want to implement in my app. So far I have configured react-router-dom.   
+
+**Thoughts:** Happy installing react-router-dom didn't break jest and enzyme.  
+
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo)
+2. [React Router Tutorial](https://www.codingame.com/playgrounds/6517/react-router-tutorial)
+3. [react-router-dom](https://www.npmjs.com/package/react-router-dom)
