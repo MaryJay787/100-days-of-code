@@ -61,3 +61,13 @@
 1. [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo)
 2. [React Router Tutorial](https://www.codingame.com/playgrounds/6517/react-router-tutorial)
 3. [react-router-dom](https://www.npmjs.com/package/react-router-dom)
+
+### Day 6: June 20, Saturday, 2020 
+
+**Today's Progress**: Learned a little more about enzyme and how it simplifies full dom rendering. Also added some basic test to two of my components. Lastly did a little bit of refractoring.    
+
+**Thoughts:** I need to find more tutorials about jest and enzyme so I can take full advantage of their cababilities. 
+
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo)
+2. [API Reference](https://enzymejs.github.io/enzyme/docs/api/)

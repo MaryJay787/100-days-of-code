@@ -18,3 +18,6 @@ Following a react, jest, enzyme tutorial video but, also adjusting some of the c
 
 ### R1D5
 Forgot to post this yesterday. But I am in the process of learning more about jest and enzyme. I also am trying to figure out what other programs I want to implement into my app. 
+
+### R1D6
+Spent sometime reading Enzyme docs and added some basics test to two of my components. I need to find some more jest and enzyme test tutorial videos to watch. 
