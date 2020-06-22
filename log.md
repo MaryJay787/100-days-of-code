@@ -71,3 +71,13 @@
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo)
 2. [API Reference](https://enzymejs.github.io/enzyme/docs/api/)
+
+### Day 7: June 21, Sunday, 2020 
+
+**Today's Progress**: Starting to plan out my app layout. Read some CSS and HTML docs.   
+
+**Thoughts:** Planning this layout in CSS is looking more complicated than I expected. 
+
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [How TO - Cards](https://www.w3schools.com/howto/howto_css_cards.asp)
+2. [Easy Learning with HTML "Try it Yourself"](https://www.w3schools.com/html/default.asp)

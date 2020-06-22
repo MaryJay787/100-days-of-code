@@ -21,3 +21,6 @@ Forgot to post this yesterday. But I am in the process of learning more about je
 
 ### R1D6
 Spent sometime reading Enzyme docs and added some basics test to two of my components. I need to find some more jest and enzyme test tutorial videos to watch. 
+
+### R1D7
+Startig to plan out the layout of my app. 
