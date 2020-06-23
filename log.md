@@ -81,3 +81,12 @@
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [How TO - Cards](https://www.w3schools.com/howto/howto_css_cards.asp)
 2. [Easy Learning with HTML "Try it Yourself"](https://www.w3schools.com/html/default.asp)
+
+### Day 8: June 22, Monday, 2020 
+
+**Today's Progress**: Working on layout for game page. Coded some HTML and CSS for the game page.   
+
+**Thoughts:** Coding in HTML and CSS is actually kind of fun. It's just very meticulous.
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [CSS Grid Containers](https://www.w3schools.com/css/css_grid_container.asp)
+2. [HTML <button> Tag](https://www.w3schools.com/tags/tag_button.asp)
