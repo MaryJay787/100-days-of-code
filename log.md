@@ -90,3 +90,13 @@
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [CSS Grid Containers](https://www.w3schools.com/css/css_grid_container.asp)
 2. [HTML <button> Tag](https://www.w3schools.com/tags/tag_button.asp)
+
+### Day 9: June 23, Tuesday, 2020 
+
+**Today's Progress**: Worked on the CSS for the game page and watched a react trivia game tutorial.  
+
+**Thoughts:** Trying to code everyday is fun only when you don't have other things on your plate.
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [CSS GRID Layout Module](https://www.w3schools.com/css/css_grid.asp)
+2. [W3.CSS Cards](https://www.w3schools.com/w3css/w3css_cards.asp)
+3. [React Quiz App](https://www.youtube.com/watch?v=2i2-LTJ5nF4)

@@ -24,3 +24,6 @@ Spent sometime reading Enzyme docs and added some basics test to two of my compo
 
 ### R1D7
 Startig to plan out the layout of my app. 
+
+### R1D8
+Watched a video about building a react quiz and read some CSS docs on containers. Im also really tired so coding today was really hard. 
