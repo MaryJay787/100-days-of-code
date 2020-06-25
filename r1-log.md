@@ -27,3 +27,6 @@ Startig to plan out the layout of my app.
 
 ### R1D8
 Watched a video about building a react quiz and read some CSS docs on containers. Im also really tired so coding today was really hard. 
+
+### R1D8
+Was able to start wiring my frontend to my ruby api backend after reading some react docs.

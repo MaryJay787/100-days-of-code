@@ -30,7 +30,7 @@
 3. [React TDD in 30 Minute - Test Driven Development with Jest and Enzyme](https://www.youtube.com/watch?v=-bmdf1oATQo)
 4. [JEST Docs](https://jestjs.io/docs/en/getting-started.html)
 
-### Day 3: June 17, Wendsday, 2020 
+### Day 3: June 17, Wednesday, 2020 
 
 **Today's Progress**: After watching the video below again and still having no success in getting the test to configure, decided that it was time I started from scratch. So thats exactly what I did. I'm happy to report that after reading some REACT, JEST, ENZYME documentation, so far I have been able to install, configure, and successfully run some practice test.  
 
@@ -100,3 +100,11 @@
 1. [CSS GRID Layout Module](https://www.w3schools.com/css/css_grid.asp)
 2. [W3.CSS Cards](https://www.w3schools.com/w3css/w3css_cards.asp)
 3. [React Quiz App](https://www.youtube.com/watch?v=2i2-LTJ5nF4)
+
+### Day 10: June 24, Wednesday, 2020 
+
+**Today's Progress**: Started wiring my frontend to my backend ruby api after I read some react docs.  
+
+**Thoughts:** Trying to code everyday is fun only when you don't have other things on your plate.
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
