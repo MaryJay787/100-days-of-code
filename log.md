@@ -108,3 +108,12 @@
 **Thoughts:** Trying to code everyday is fun only when you don't have other things on your plate.
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+
+### Day 11: June 25, Thursday, 2020 
+
+**Today's Progress**: Rewired the categories for the game page and wired the questions to game page.   
+
+**Thoughts:** I see some  major refractoring in my future.
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [BrowserRouter](https://reacttraining.com/react-router/web/api/BrowserRouter)
+2. [How to pass props to components in React](https://www.robinwieruch.de/react-pass-props-to-component)
