@@ -125,3 +125,12 @@
 **Thoughts:** Annoyed that my data is giving me the run around but i'm learning a lot in the process. 
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [grabing two item from array with map](https://stackoverflow.com/questions/53718887/how-to-map-more-than-one-property-from-array-of-object-in-javascript)
+
+### Day 13: June 27, Saturday, 2020 
+
+**Today's Progress**: Was able to seperate my data according to id on the frontend also start testing displaying quetions.    
+
+**Thoughts:** Excited that seperating my data was successful and it's displaying.  
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [javascript filter method](https://www.freecodecamp.org/forum/t/how-to-use-javascript-array-prototype-filter-filter-explained-with-examples/14289)
+2. [css cards](https://www.w3schools.com/w3css/w3css_cards.asp)

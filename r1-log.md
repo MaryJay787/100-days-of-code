@@ -36,3 +36,6 @@ Rewired routes for game component so I could pass props down. I see some major r
 
 ### R1D11
 Had to rethink the organization of my category and questions. 
+
+### R1D12
+Was able to succesfully seperate my data according to id on the frontend and started displaying questions. Doesn't look pretty but progress is progress.
