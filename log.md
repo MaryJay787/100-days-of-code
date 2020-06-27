@@ -117,3 +117,11 @@
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [BrowserRouter](https://reacttraining.com/react-router/web/api/BrowserRouter)
 2. [How to pass props to components in React](https://www.robinwieruch.de/react-pass-props-to-component)
+
+### Day 12: June 26, Friday, 2020 
+
+**Today's Progress**: Less of progress and more of moving backwards. I'm pulling my data in from my backend but I have to seperate during the fetch and put it back together after the fetch. Definte refractoring later.    
+
+**Thoughts:** Annoyed that my data is giving me the run around but i'm learning a lot in the process. 
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [grabing two item from array with map](https://stackoverflow.com/questions/53718887/how-to-map-more-than-one-property-from-array-of-object-in-javascript)

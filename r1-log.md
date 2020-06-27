@@ -33,3 +33,6 @@ Was able to start wiring my frontend to my ruby api backend after reading some r
 
 ### R1D10
 Rewired routes for game component so I could pass props down. I see some major refractoring in my future. 
+
+### R1D11
+Had to rethink the organization of my category and questions. 
