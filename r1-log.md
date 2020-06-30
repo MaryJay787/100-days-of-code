@@ -39,3 +39,10 @@ Had to rethink the organization of my category and questions.
 
 ### R1D12
 Was able to succesfully seperate my data according to id on the frontend and started displaying questions. Doesn't look pretty but progress is progress.
+
+### R1D13
+I was able to successfully extract on question at random from my array.
+
+### R1D15
+(I don't know how the days don't match for the log but I am fixing it now.)
+Currently trying not to be frustrated with all the errors I am running into with trying to pull data from a hash. 

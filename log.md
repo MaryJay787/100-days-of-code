@@ -134,3 +134,21 @@
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [javascript filter method](https://www.freecodecamp.org/forum/t/how-to-use-javascript-array-prototype-filter-filter-explained-with-examples/14289)
 2. [css cards](https://www.w3schools.com/w3css/w3css_cards.asp)
+
+### Day 14: June 28, Sunday, 2020 
+
+**Today's Progress**: Was able to successfull extract a single question at a time from array. 
+**Thoughts:** Thinking about how much further I have to go. 
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [javascript grad element from array](https://www.geeksforgeeks.org/how-to-select-a-random-element-from-array-in-javascript/)
+
+### Day 15: June 29, Monday, 2020 
+
+**Today's Progress**: Running into a lot of errors trying to extract data from a hash. 
+**Thoughts:** A little annoyed that no matter how I try to refractor this code I am still getting errors. 
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [javascript prop hash](https://www.w3schools.com/jsref/prop_loc_hash.asp)
+
+2. [Javascript Object Values](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/values)
+
+3. [Javascript Object Keys](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
