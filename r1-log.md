@@ -46,3 +46,6 @@ I was able to successfully extract on question at random from my array.
 ### R1D15
 (I don't know how the days don't match for the log but I am fixing it now.)
 Currently trying not to be frustrated with all the errors I am running into with trying to pull data from a hash. 
+
+### R1D16
+Started to realized I was skipping some steps so I am going backwards to right some mistakes.
