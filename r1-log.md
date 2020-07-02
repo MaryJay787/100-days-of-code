@@ -49,3 +49,6 @@ Currently trying not to be frustrated with all the errors I am running into with
 
 ### R1D16
 Started to realized I was skipping some steps so I am going backwards to right some mistakes.
+
+### R1D17
+Started raining really bad and the power went out so I am a day behind. Stuck on the show answers function. 

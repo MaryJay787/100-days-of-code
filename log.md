@@ -163,3 +163,13 @@
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [javascript objest arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/values)
 2. [css card containers](https://www.w3schools.com/w3css/w3css_cards.asp)
+3. [javascript onClick](https://www.bitdegree.org/learn/onclick-javascript)
+
+### Day 17: July 1, Wednesday, 2020 
+
+**Today's Progress**: Not much progress... still struggling to get this show question answers to work. 
+
+**Thoughts:** Annoyed running into errors to get function to work.  
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1. [js loops](https://www.w3schools.com/js/js_loop_for.asp)
+2. [js arrays](https://www.w3resource.com/javascript-exercises/javascript-array-exercise-10.php)
