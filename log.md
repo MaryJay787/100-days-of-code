@@ -173,3 +173,10 @@
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1. [js loops](https://www.w3schools.com/js/js_loop_for.asp)
 2. [js arrays](https://www.w3resource.com/javascript-exercises/javascript-array-exercise-10.php)
+
+### Day 18: July 2, Thursday, 2020 
+
+**Today's Progress**: Not much progress... the functionality I want is not working out. Still running into errors after errors.  
+
+**Thoughts:** I'm going to have to map this out on paper and see what other route options I have. 
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)

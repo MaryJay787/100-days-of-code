@@ -52,3 +52,6 @@ Started to realized I was skipping some steps so I am going backwards to right s
 
 ### R1D17
 Started raining really bad and the power went out so I am a day behind. Stuck on the show answers function. 
+
+### R1D18
+So far no success on firguring out the solution for the functionality I want. 
