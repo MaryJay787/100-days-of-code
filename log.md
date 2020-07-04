@@ -180,3 +180,11 @@
 
 **Thoughts:** I'm going to have to map this out on paper and see what other route options I have. 
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+
+### Day 19: July 3, Friday, 2020 
+
+**Today's Progress**: After doing some research I think my problem lies under in trying to make one component have multiple functionalities.  
+
+**Thoughts:** I feel like I made some progress today. Although this refractoring may take a tole. 
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+1.[Create A React Quiz](https://mitchgavan.com/react-quiz/)

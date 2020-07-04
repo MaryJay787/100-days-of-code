@@ -55,3 +55,6 @@ Started raining really bad and the power went out so I am a day behind. Stuck on
 
 ### R1D18
 So far no success on firguring out the solution for the functionality I want. 
+
+### R1D19
+Did some research and realized my problem lies in having one component doing to many functionalities. 
