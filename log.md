@@ -188,3 +188,10 @@
 **Thoughts:** I feel like I made some progress today. Although this refractoring may take a tole. 
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
 1.[Create A React Quiz](https://mitchgavan.com/react-quiz/)
+
+### Day 20: July 4, Saturday, 2020 
+
+**Today's Progress**: Building a new database.  
+
+**Thoughts:** I am too tired to think.  
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)

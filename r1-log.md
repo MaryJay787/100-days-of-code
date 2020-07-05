@@ -58,3 +58,6 @@ So far no success on firguring out the solution for the functionality I want.
 
 ### R1D19
 Did some research and realized my problem lies in having one component doing to many functionalities. 
+
+### R1D20
+Building a new database because didnt feel like doing rollbacks and deleting and readding. 
