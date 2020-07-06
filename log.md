@@ -195,3 +195,10 @@
 
 **Thoughts:** I am too tired to think.  
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+
+### Day 21: July 5, Sunday, 2020 
+
+**Today's Progress**: Building controllers and routes for database.  
+
+**Thoughts:** I almost at the fun part of building my database. Seeding data! 
+**Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)

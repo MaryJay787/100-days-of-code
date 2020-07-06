@@ -61,3 +61,6 @@ Did some research and realized my problem lies in having one component doing to 
 
 ### R1D20
 Building a new database because didnt feel like doing rollbacks and deleting and readding. 
+
+### R1D21
+Building controllers and routes for my database.
