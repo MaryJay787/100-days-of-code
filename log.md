@@ -202,3 +202,10 @@
 
 **Thoughts:** I almost at the fun part of building my database. Seeding data! 
 **Link to work:** [Trivia App](https://github.com/MaryJay787/frontend-trivia-game)
+
+### Day 22: July 6, Monday, 2020 
+
+**Today's Progress**: Creating Seed Data 
+
+**Thoughts:** Quite a few more seed data to enter.  
+**Link to work:** [Trivia App](https://github.com/MaryJay787/trivia_data)

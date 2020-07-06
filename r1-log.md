@@ -64,3 +64,6 @@ Building a new database because didnt feel like doing rollbacks and deleting and
 
 ### R1D21
 Building controllers and routes for my database.
+
+### R1D22
+Creating seed data, still have quite a few to enter. 
