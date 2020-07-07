@@ -67,3 +67,6 @@ Building controllers and routes for my database.
 
 ### R1D22
 Creating seed data, still have quite a few to enter. 
+
+### R1D23
+Created trial seed data for all categories

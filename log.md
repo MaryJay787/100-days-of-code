@@ -209,3 +209,10 @@
 
 **Thoughts:** Quite a few more seed data to enter.  
 **Link to work:** [Trivia App](https://github.com/MaryJay787/trivia_data)
+
+### Day 23: July 7, Tuesday, 2020 
+
+**Today's Progress**: Creating trial seed data for all categories 
+
+**Thoughts:** Will be creating more when everything is running smoothly.
+**Link to work:** [Trivia App](https://github.com/MaryJay787/trivia_data)
