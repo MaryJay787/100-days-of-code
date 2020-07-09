@@ -70,3 +70,6 @@ Creating seed data, still have quite a few to enter.
 
 ### R1D23
 Created trial seed data for all categories
+
+### R1D24
+Building components needed for trivia portion of application.

@@ -216,3 +216,10 @@
 
 **Thoughts:** Will be creating more when everything is running smoothly.
 **Link to work:** [Trivia App](https://github.com/MaryJay787/trivia_data)
+
+### Day 24: July 8, Wednesday, 2020 
+
+**Today's Progress**: Built components needed for trivia portion of app.
+
+**Thoughts:** Do I have the smarts to finish this. 
+**Link to work:** [Trivia App](https://github.com/MaryJay787/trivia_data)
