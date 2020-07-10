@@ -73,3 +73,6 @@ Created trial seed data for all categories
 
 ### R1D24
 Building components needed for trivia portion of application.
+
+### R1D25
+Started writing functions to pull in data only to realize it's a real problem databases dont store arrays. 

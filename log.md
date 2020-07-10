@@ -223,3 +223,10 @@
 
 **Thoughts:** Do I have the smarts to finish this. 
 **Link to work:** [Trivia App](https://github.com/MaryJay787/trivia_data)
+
+### Day 25: July 9, Thursday, 2020 
+
+**Today's Progress**: Writing functions to pull in data. 
+
+**Thoughts:** It's a proplem that you can't store arrays in data bases.  
+**Link to work:** [Trivia App](https://github.com/MaryJay787/trivia_data)
